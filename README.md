@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src=width="200"/>
-</div>
+
 
 <!--
 **wFernand0/wFernand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
